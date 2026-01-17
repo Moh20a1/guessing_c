@@ -12,7 +12,7 @@ Windows: use WSL
 | Win/lose | - [x] |
 | Indicator | - [x] |
 | Diffculties | - [~] | 
-| Easy | - [Default mode] |  
+| Easy | - [10 numbers, 3 chances+H/L indicator] |  
 | Medium | - [25 numbers, 6 chances+H/L indicator] |
 | Hard | - [50 numbers, 8 chances, no H/L indicator] |
 | Track attempts | - [] |
