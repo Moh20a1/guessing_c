@@ -17,12 +17,22 @@ int main()
 	{
 		printf("Enter a value (1-10): ");
 		scanf("%d", &numa);
+
+		
 		if(numa == numg) {
 			puts("YOU WON!");
 			return(0);
 		}
 		else if(numa != numg)
-			puts("Try again");
+			printf("Try again ");
+
+			
+		if(numa > numg)
+			printf("Lower\n");
+		if(numa < numg)
+			printf("Higher\n");
+
+			
 		chance--;
 	}
 	if(chance == 0)
